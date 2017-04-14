@@ -1,0 +1,10 @@
+com\todolist\config\AppConfiguration.class
+com\todolist\dao\AbstractDao.class
+com\todolist\model\Task.class
+com\todolist\service\TaskService.class
+com\todolist\controller\HomeController.class
+com\todolist\service\TaskServiceImpl.class
+com\todolist\config\AppInitializer.class
+com\todolist\config\HibernateConfiguration.class
+com\todolist\dao\TaskDaoImpl.class
+com\todolist\dao\TaskDao.class
